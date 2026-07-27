@@ -2,7 +2,14 @@
 
 A polished, interactive single-page auction website built with plain HTML, CSS, and JavaScript. Designed for live classroom demos.
 
-## How to Open It
+## Live Site
+
+The site is automatically published to GitHub Pages on every push to `main`:
+**https://auctionacademy.github.io/Example/**
+
+---
+
+## How to Open It Locally
 
 **No installation needed.** There is no build step, no server required, and no dependencies to install.
 
